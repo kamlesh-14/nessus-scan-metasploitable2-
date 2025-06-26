@@ -20,7 +20,7 @@ The goal was to simulate a real-world vulnerability assessment, identify and pri
 
 ## 🧾 Scan Report
 
-- [📄 Download Full PDF Report](scan-report/My Basic Network Scan_agig49.pdf)
+- [📄 Download Full PDF Report](scan-report/My_Basic_Network_Scan_agig49.pdf)
 
 ---
 

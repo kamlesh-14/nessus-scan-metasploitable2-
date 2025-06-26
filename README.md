@@ -20,7 +20,7 @@ The goal was to simulate a real-world vulnerability assessment, identify and pri
 
 ## 🧾 Scan Report
 
-- [📄 Download Full PDF Report](scan-report/nessus_scan_report.pdf)
+- [📄 Download Full PDF Report](scan-report/My Basic Network Scan_agig49.pdf)
 
 ---
 
@@ -57,7 +57,6 @@ Visual reference of important parts of the scan:
 - Risk categorization by CVSS
 - Individual plugin results
 
-<img src="scan-report/screenshots/summary.png" width="600"/>
 
 More in the `scan-report/screenshots/` folder.
 

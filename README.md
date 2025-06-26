@@ -54,8 +54,6 @@ Visual reference of important parts of the scan:
 
 - Summary view of vulnerabilities
 - Specific vulnerability evidence
-- Risk categorization by CVSS
-- Individual plugin results
 
 
 More in the `scan-report/screenshots/` folder.
